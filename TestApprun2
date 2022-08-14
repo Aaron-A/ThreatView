@@ -1,0 +1,11 @@
+{
+  "name": "LaunchBar Software Update",
+  "description": "This rule allows LaunchBar to check for updates.",
+  "rules": [
+    {
+      "action": "allow",
+      "process": "/Applications/LaunchBar.app/Contents/MacOS/LaunchBar",
+      "remote-hosts": "sw-update.obdev.at"
+    }
+  ]
+}
