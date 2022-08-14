@@ -1,6 +1,6 @@
 {
   "name" : "Threatview IP Blocklist",
-  "denied-remote-addresses" : [
+  "denied-remote-addresses": [
     "102.33.101.133",
     "102.33.10.228",
     "102.33.44.165",
