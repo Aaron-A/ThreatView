@@ -2,7 +2,7 @@
 Little Snitch ThreatView block list generator. 
 
 Domain Blocklist:
-https://github.com/Aaron-A/ThreatView/blob/main/DomainBlocklist.lsrules
+https://raw.githubusercontent.com/Aaron-A/ThreatView/main/DomainBlocklist.lsrules
 
 Ip Blocklist:
-https://github.com/Aaron-A/ThreatView/blob/main/iPBlocklist.lsrules
+https://raw.githubusercontent.com/Aaron-A/ThreatView/main/iPBlocklist.lsrules
