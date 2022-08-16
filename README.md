@@ -1,5 +1,5 @@
 # ThreatView
-Little Snitch ThreatView block list generator. 
+Little Snitch https://www.threatview.io block list generator for Domains and IP addresses
 
 Domain Blocklist:
 https://raw.githubusercontent.com/Aaron-A/ThreatView/main/DomainBlocklist.lsrules
