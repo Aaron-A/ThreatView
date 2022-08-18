@@ -8,4 +8,4 @@ IP Blocklist:
 https://raw.githubusercontent.com/Aaron-A/ThreatView/main/iPBlocklist.lsrules
 
 OSINT Threat Feed:
-Coming soon.
+https://threatview.io/Downloads/Experimental-IOC-Tweets.txt
