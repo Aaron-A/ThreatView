@@ -7,5 +7,5 @@ https://raw.githubusercontent.com/Aaron-A/ThreatView/main/DomainBlocklist.lsrule
 IP Blocklist:
 https://raw.githubusercontent.com/Aaron-A/ThreatView/main/iPBlocklist.lsrules
 
-URL Blocklist: 
-https://raw.githubusercontent.com/Aaron-A/ThreatView/main/URLBlocklist.lsrules
+OSINT Threat Feed: 
+Coming soon.
